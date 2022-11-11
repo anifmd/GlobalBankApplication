@@ -1,0 +1,34 @@
+.homecss {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    height: 100px;
+    padding-top: 200px;
+    padding-bottom: 600px;
+    background-color: #0c3ce9;
+    background-image: url("https://i.pinimg.com/originals/16/af/cc/16afccf2eb66ab5d6c2e713cd920133b.jpg");
+    /* background-repeat: no-repeat;
+    background-size: cover; */
+    
+  }
+  .ads {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    height: 200px;
+    padding-top: 200px;
+    padding-bottom: 600px;
+    background-color: #0c3ce9;
+    background-image: url("https://as1.ftcdn.net/v2/jpg/04/32/17/00/1000_F_432170099_fOtRaAEyAwmwCZ9AxrHyWYBCwefzZdy4.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+  .hss{
+    position:absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    /*overflow-y:scroll;*/
+  }
+  

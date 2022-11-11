@@ -1,0 +1,21 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "first_name": "Customer_1",
+      "last_name": "Customer_1",
+      "email": "customer1@mail.com",
+      "phone": "00000000000",
+      "address": "Customer_1 Address"
+    },
+    {
+      "first_name": "23973278238",
+      "last_name": "3",
+      "email": "23",
+      "phone": "2332",
+      "address": "213321",
+      "description": "",
+      "id": 3
+    }
+  ]
+}
